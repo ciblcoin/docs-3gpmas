@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ke9s6p.bskl.ru/sitemap.xml
